@@ -1,7 +1,5 @@
 # SQL Daily Challenges
 
-1: Biomarker Funnel Conversion
-
 | Date | Challenge | Pattern Practiced |
 |------|-----------|-------------------|
 | 6/20 | Funnel conversion | Progressive CTEs |
