@@ -18,6 +18,3 @@ The best move is to start with a blank audit of where the business's
 knowledge actually stands — what don't they know that would change 
 how they're currently doing something. Remember: small wins add up 
 to bigger ones.
-
-**Fun fact:** Grew up in a basketball family — a competitive edge is 
-what keeps me going.
