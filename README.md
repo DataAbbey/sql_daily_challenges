@@ -1,13 +1,21 @@
-# SQL Daily Challenges
+# SQL Practice Log
+
+Daily SQL practice — one query a day, real product analytics scenarios.
+Goal: build muscle memory, not perfection.
+
+## Practice Log
 
 | Date | Challenge | Pattern Practiced |
 |------|-----------|-------------------|
 | 6/20 | Funnel conversion | Progressive CTEs |
 | 6/20 | Cohort threshold | Aggregate then classify |
 | 6/20 | Churn flag | QUALIFY + ROW_NUMBER |
-| 6/20 | WoW subscriber growth | Aggregate then LAG yes |
+| 6/20 | WoW subscriber growth | Aggregate then LAG |
+| 6/21 | Support resolution efficiency | Derived metric + aggregate-then-LAG |
 
-# 7 Day Checkin
+---
+
+## 7 day Checkin
 > "Start where you are, use what you have, do what you can" - Anon
 
 Often in analytics the data isn't perfect, the requirements aren't 
