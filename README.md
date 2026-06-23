@@ -12,6 +12,10 @@ Goal: build muscle memory, not perfection.
 | 6/20 | Churn flag | QUALIFY + ROW_NUMBER |
 | 6/20 | WoW subscriber growth | Aggregate then LAG |
 | 6/21 | Support resolution efficiency | Derived metric + aggregate-then-LAG |
+| 6/22 | Top 3 products by category | Aggregate → RANK() → filter, two-CTE pattern |
+| 6/22 | Top 2 channels by region | Aggregate → RANK() → QUALIFY, most efficient solution |
+| 6/23 | Avg days between consecutive orders | LAG() for sequential row comparison + cohort threshold |
+| 6/23 | First purchase attribution by channel | MIN() first event + cohort threshold +
 
 ---
 
