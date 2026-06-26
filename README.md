@@ -23,9 +23,6 @@ Goal: build muscle memory, not perfection.
 ## 7 day Checkin
 > "Start where you are, use what you have, do what you can" - Anon
 
-Here you go:
-
-```markdown
 ## The analyst's mindset — start with the blank audit
 
 Often in analytics the data isn't perfect, the requirements aren't crystal clear, and the current business process looks different depending on which stakeholder, region, or purpose you're viewing it from. That doesn't mean there isn't valuable information to uncover. The best move is to start with a blank audit of where the business's knowledge actually stands — what don't they know that would change how they're currently doing something. Remember: small wins add up to bigger ones.
