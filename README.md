@@ -16,7 +16,7 @@ Goal: build muscle memory, not perfection.
 | 6/22 | Top 2 channels by region | Aggregate → RANK() → QUALIFY, most efficient solution |
 | 6/23 | Avg days between consecutive orders | LAG() for sequential row comparison + cohort threshold |
 | 6/23 | First purchase attribution by channel | MIN() first event + cohort threshold +
-
+| 6/25 | Weekly retention by cohort | Separate cohort size CTE + activity CTE, different grains |
 ---
 
 ## 7 day Checkin
