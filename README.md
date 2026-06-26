@@ -36,4 +36,5 @@ A retail operations team was tracking cancellation rate nationally and feeling g
 The pattern: the business wasn't failing. The data wasn't broken. The question was just slightly wrong — and nobody had stopped to ask whether the thing they were measuring was actually the thing that mattered. That's the blank audit. Not a data quality project. Not a dashboard rebuild. Just one honest question:
 
 > *"What don't we know that would change how we're doing this?"*
+
 Small wins. One question at a time. They add up.
