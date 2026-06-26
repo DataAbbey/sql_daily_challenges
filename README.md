@@ -17,6 +17,7 @@ Goal: build muscle memory, not perfection.
 | 6/23 | Avg days between consecutive orders | LAG() for sequential row comparison + cohort threshold |
 | 6/23 | First purchase attribution by channel | MIN() first event + cohort threshold +
 | 6/25 | Weekly retention by cohort | Separate cohort size CTE + activity CTE, different grains |
+| 6/26 | Cumulative revenue by channel | SUM() OVER running total — ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW vs no ROWS BETWEEN |
 ---
 
 ## 7 day Checkin
