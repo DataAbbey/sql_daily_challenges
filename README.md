@@ -18,6 +18,7 @@ Goal: build muscle memory, not perfection.
 | 6/23 | First purchase attribution by channel | MIN() first event + cohort threshold +
 | 6/25 | Weekly retention by cohort | Separate cohort size CTE + activity CTE, different grains |
 | 6/26 | Cumulative revenue by channel | SUM() OVER running total — ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW vs no ROWS BETWEEN |
+| 6/27 | Channel health report | MULTII-CONCEPT REVIEW: aggregation + CASE WHEN pivot + RANK() + derived metrics  |
 ---
 
 ## 7 day Checkin
